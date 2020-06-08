@@ -8,4 +8,4 @@ class MyClient(discord.Client):
 		print('Mensaje de {0.author}: {0.content}'.format(message))
 						     
 client = MyClient()
-client.run('NzE5NTk5OTY5MDYwOTEzMjg0.Xt54cw.FwjMANogHxYolsQsli7WC3bNiBc')
+client.run('token gir')
